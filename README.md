@@ -1,11 +1,11 @@
+
+# 🏆 Typing Speed Multiplayer Game
 Screenshots:-
 
 Register Page
 ![Screenshot 2025-06-12 162502](https://github.com/user-attachments/assets/d96521d6-f5ff-4692-a7f3-87ac702bc407)
 
 ![image](https://github.com/user-attachments/assets/b7950439-25bc-4ed7-81b8-e61daf14817d)
-
-# 🏆 Typing Speed Multiplayer Game
 
 ## 📌 Project Overview
 This project is a **real-time multiplayer typing competition** built using **Node.js, Express, and Socket.io**. The game challenges players to type a predefined paragraph **exactly** and submit their response. The first correct submission wins, displaying the **winner's name and typing speed**.
